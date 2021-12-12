@@ -14,6 +14,7 @@ export const Wrapper = styled.div`
         flex-wrap: wrap;
         width: 50rem;
         display: flex;
+        justify-content: center
         
     }
 `
